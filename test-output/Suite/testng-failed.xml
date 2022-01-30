@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="com.selenium.assessment.SearchTab">
+        <methods>
+          <include name="EvaluateResult"/>
+          <include name="cleanUp"/>
+          <include name="test_case_six"/>
+          <include name="validateEmployeeName"/>
+          <include name="setup"/>
+          <include name="validateStatus"/>
+          <include name="validateUsername"/>
+        </methods>
+      </class> <!-- com.selenium.assessment.SearchTab -->
+      <class name="com.selenium.assessment.VerifyUserRecord">
+        <methods>
+          <include name="test_case_eight"/>
+        </methods>
+      </class> <!-- com.selenium.assessment.VerifyUserRecord -->
+      <class name="com.selenium.assessment.DeleteTab">
+        <methods>
+          <include name="test_case_seven"/>
+        </methods>
+      </class> <!-- com.selenium.assessment.DeleteTab -->
+      <class name="com.selenium.assessment.Logout">
+        <methods>
+          <include name="EvaluateResult"/>
+          <include name="cleanUp"/>
+          <include name="validateTitle"/>
+          <include name="validateUserLogin"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.selenium.assessment.Logout -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

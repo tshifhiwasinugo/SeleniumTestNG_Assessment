@@ -1,0 +1,936 @@
+[INFO ] 2022-01-27 13:55:26.842 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 13:58:17.495 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 14:13:43.872 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 14:14:33.390 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 14:16:49.163 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 18:34:56.405 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 19:15:43.385 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 19:17:40.579 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 19:17:44.464 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 19:17:59.441 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 19:18:14.534 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 19:18:25.954 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 19:18:41.158 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 19:18:55.893 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 19:19:07.562 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 19:19:22.706 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 20:34:51.800 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 20:35:43.302 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 20:37:49.592 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 20:39:48.043 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 20:52:20.381 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 20:53:45.105 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 22:11:49.582 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 22:12:06.331 [main] PageTitle - Test Failed
+[INFO ] 2022-01-27 22:12:33.683 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 22:12:54.819 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 22:13:25.248 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 22:14:00.891 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 22:14:04.463 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 22:14:18.179 [main] PageTitle - Test Passed
+[INFO ] 2022-01-27 22:14:34.865 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 00:00:58.198 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:01:26.496 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:01:38.702 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:01:50.887 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:02:03.117 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:02:06.805 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:02:15.328 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:02:25.079 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 00:02:27.532 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:02:39.765 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:02:51.971 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:03:07.599 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:03:19.817 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:03:32.037 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:03:44.280 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:03:56.535 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:04:08.765 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 00:04:20.985 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:01:00.919 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 01:01:17.757 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:01:29.962 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:01:42.157 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:01:54.275 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:02:06.491 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:02:18.701 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:08:31.149 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:08:47.645 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 01:09:28.270 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:09:40.477 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:09:52.664 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:10:04.854 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:10:17.047 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:10:29.194 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:10:41.467 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:44:34.033 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:44:51.003 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 01:45:19.202 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:45:54.472 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:46:06.648 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:46:18.854 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:46:31.051 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:46:43.252 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 01:59:45.551 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 01:59:49.115 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 02:00:06.355 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 02:00:10.624 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 02:00:26.180 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 02:00:38.412 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 02:00:50.625 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 02:01:02.853 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 02:03:13.073 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 02:03:29.906 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 02:03:58.146 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 02:04:29.232 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 02:04:53.978 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 02:04:57.369 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 02:05:18.872 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 02:05:46.282 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:57:46.181 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:57:46.198 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:57:49.228 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:57:52.249 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:57:52.250 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:57:52.255 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:57:52.256 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:57:52.257 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:57:52.258 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:57:52.268 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:57:55.281 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:57:55.290 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:57:55.294 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:57:55.302 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:57:58.580 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:58:01.599 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:58:01.605 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:58:09.104 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:58:09.109 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:58:09.118 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 03:58:09.739 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 03:58:09.743 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:40.777 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:17:40.816 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:43.859 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:46.893 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:46.898 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:17:46.918 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:46.922 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:17:46.926 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:17:46.931 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:17:46.973 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:46.998 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:47.015 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:47.050 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:51.051 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:17:54.112 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:17:54.137 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:02.318 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:02.963 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:02.980 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:11.760 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:16.290 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:16.293 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:16.313 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:16.318 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:16.320 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:16.324 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:35.027 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:35.031 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:35.034 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:38.610 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:38.613 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:38.639 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:38.714 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:38.737 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:38.793 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:39.347 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:42.389 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:42.393 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:42.397 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:42.400 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:18:42.423 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:55.109 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:58.697 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:58.726 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:58.808 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:18:59.519 [main] PageTitle - url does not contain keyword dashboard
+[INFO ] 2022-01-28 10:18:59.606 [main] PageTitle - url does not contain keyword dashboard
+[INFO ] 2022-01-28 10:19:00.332 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:19:12.843 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:19:36.133 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:19:48.349 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:20:00.568 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:20:12.719 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:20:24.915 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:20:37.128 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:20:52.327 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:21:04.509 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:21:16.723 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:21:31.846 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:21:46.994 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:21:59.141 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:22:11.263 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:22:26.432 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:22:41.660 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:22:53.884 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:23:06.125 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:23:18.296 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:23:30.452 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:23:42.547 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:23:54.759 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:24:07.006 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:24:22.219 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:24:34.434 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:24:49.620 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:25:04.831 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:25:17.045 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:25:29.257 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:25:41.489 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:25:53.672 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:26:05.881 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:26:18.092 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:26:30.275 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:39.458 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:42.503 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:45.551 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:45.574 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:45.621 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:45.647 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:45.669 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:45.698 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:52.196 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:52.219 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:58:59.995 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 10:59:00.084 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 10:59:00.636 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:03.679 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:08.713 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:59:08.730 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:59:08.733 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:59:22.447 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:59:25.511 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:25.543 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:25.612 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 10:59:25.614 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:59:25.632 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:25.692 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 10:59:25.695 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:59:26.309 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 10:59:28.343 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:28.364 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:31.400 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:38.780 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:38.813 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:38.871 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 10:59:38.887 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:38.940 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 10:59:39.673 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:39.726 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 10:59:39.799 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 10:59:40.408 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:43.729 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:43.835 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:43.842 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 10:59:46.848 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:39.900 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:42.950 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:45.999 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:46.019 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:46.069 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:46.097 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:46.116 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:46.148 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:53.036 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:01:53.060 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:02:01.028 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:02:01.115 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:02:01.763 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:02:04.814 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:02:09.898 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:02:09.916 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:02:09.920 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:02:24.043 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:02:27.095 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:02:27.130 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:02:27.208 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:02:27.211 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:02:27.227 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:02:27.289 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:02:27.292 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:02:27.863 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:28:46.497 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:49.549 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:52.593 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:52.613 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:52.660 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:52.691 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:52.711 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:52.748 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:59.293 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:28:59.324 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:29:07.076 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:29:07.172 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:29:07.755 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:29:10.806 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:29:15.845 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:29:15.865 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:29:15.869 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:29:29.464 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:29:32.524 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:29:32.569 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:29:32.666 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:29:32.668 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:29:32.688 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:29:32.762 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:29:32.765 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:29:33.126 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:40.867 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:43.929 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:46.967 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:46.987 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:47.030 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:47.067 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:47.084 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:47.120 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:53.873 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:32:53.898 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:02.337 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:33:02.463 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:33:03.059 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:06.112 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:14.271 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:14.306 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:14.366 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:33:14.385 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:14.442 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:33:15.077 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:15.136 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:33:15.206 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:33:16.327 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:33:16.349 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:19.382 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:26.819 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:26.852 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:26.935 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:33:26.959 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:33:27.021 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:33:29.686 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:05.282 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:05.325 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:08.360 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:08.371 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:08.408 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:08.429 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:08.447 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:08.469 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:15.255 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:15.276 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:23.089 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:38:23.186 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:38:23.816 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:23.866 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:28.965 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:38:29.027 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:38:29.030 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:38:39.409 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:42.458 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:42.490 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:42.563 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:38:42.565 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:38:42.583 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:42.646 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:38:42.648 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:38:43.341 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:38:45.386 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:45.410 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:38:45.451 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:46:28.113 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:46:31.173 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:46:31.201 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:46:31.218 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:46:31.258 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:46:34.309 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:46:42.475 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:46:42.563 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:46:45.141 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:46:50.320 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:46:54.230 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:47:01.174 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:47:01.237 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:47:01.251 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:47:01.307 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:50:02.348 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:50:05.411 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:05.436 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:05.458 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:05.493 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:08.539 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:16.718 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:50:16.810 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:50:19.396 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:24.893 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:28.863 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:35.804 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:35.888 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:50:35.911 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:50:35.979 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:51:37.678 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:51:40.736 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:51:40.764 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:51:40.789 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:51:40.836 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:51:43.894 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:51:51.900 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:51:51.985 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:51:54.581 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:52:00.031 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:52:03.888 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:52:11.026 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:52:11.097 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:52:11.120 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:52:11.190 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 11:58:28.970 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 11:58:32.034 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:58:32.056 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:58:32.077 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:58:32.116 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:58:34.159 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:58:34.193 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:58:37.236 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 11:58:46.057 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 11:58:46.149 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 12:03:18.729 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 12:07:01.018 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 12:09:20.024 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 12:12:25.809 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 12:13:39.301 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 12:16:51.479 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 12:18:33.586 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 12:18:36.649 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:18:36.670 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:18:36.691 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:18:36.727 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:18:36.762 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:18:39.802 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:18:47.846 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 12:18:47.921 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 12:32:14.934 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 12:32:17.985 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:32:18.005 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:32:18.032 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:32:18.073 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:32:18.119 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:32:21.165 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 12:32:28.645 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 12:32:28.735 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:39:57.210 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:39:57.248 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:39:57.268 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:39:57.292 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:39:57.325 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:39:57.352 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:40:00.405 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:40:08.609 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:40:08.689 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:41:25.687 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:41:25.731 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:41:25.762 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:41:25.784 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:41:25.819 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:41:25.853 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:41:25.879 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:41:28.926 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:41:36.791 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:41:36.879 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:49:23.689 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:49:31.489 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:49:31.590 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:49:33.731 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:33.792 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:49:33.812 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:33.861 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:49:36.166 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:37.352 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:37.413 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:49:37.433 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:37.489 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:49:39.092 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:46.680 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:46.750 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:49:46.769 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:46.833 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:49:48.407 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:48.987 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:55.906 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:55.961 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:49:55.980 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:56.026 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:49:57.600 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:49:57.614 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:49:57.618 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:49:57.635 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:58.234 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:49:58.263 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:49:58.295 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:50:07.832 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:50:07.860 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:50:07.936 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:50:07.940 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:50:07.973 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:50:08.040 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:50:08.042 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:50:08.682 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:50:09.700 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:50:10.277 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:50:10.301 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:50:17.193 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:50:17.243 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:50:17.260 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:50:17.312 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:52:58.570 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:53:06.252 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 13:53:06.344 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 13:53:07.861 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:53:15.819 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:53:15.852 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:55:59.684 [main] PageTitle - Test Passed
+[INFO ] 2022-01-28 13:56:04.611 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:04.637 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:04.674 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:04.710 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:04.732 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:04.755 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:04.789 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:07.844 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:07.884 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:07.915 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 13:56:23.136 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 14:38:18.450 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 14:38:18.476 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 14:38:20.140 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 14:38:47.775 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 15:05:28.114 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:05:28.197 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:05:30.719 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 15:05:38.532 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 15:05:38.565 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 15:26:48.540 [main] PageTitle - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:26:48.638 [main] PageTitle - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:26:50.966 [main] PageTitle - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 15:26:51.014 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 15:26:52.035 [main] PageTitle - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 15:26:58.945 [main] PageTitle - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 15:27:02.013 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 15:27:05.051 [main] PageTitle - Test Failed
+[INFO ] 2022-01-28 15:31:50.746 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:31:50.842 [main] FillingInfo - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:31:52.945 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 15:31:52.993 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:31:54.086 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 15:32:01.015 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 15:32:04.078 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:32:07.127 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:37:34.212 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:37:34.315 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:37:34.319 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:37:34.339 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:37:34.419 [main] FillingInfo - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:37:34.423 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:37:36.609 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 15:37:36.661 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:37:37.687 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 15:37:44.642 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 15:37:47.716 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:37:50.770 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:39:15.117 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:39:15.211 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:39:15.215 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:39:15.237 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:39:15.306 [main] FillingInfo - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:39:15.310 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:39:17.694 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 15:39:17.745 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:39:18.598 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 15:39:25.528 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 15:39:28.592 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:39:31.646 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:41:45.728 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:41:45.816 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:41:45.819 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:41:45.836 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:41:45.905 [main] FillingInfo - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:41:45.908 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:41:48.253 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 15:41:48.307 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:41:49.282 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 15:41:55.207 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 15:41:58.267 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:42:01.314 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:44:14.472 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:44:14.564 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:44:14.568 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:44:14.588 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:44:14.662 [main] FillingInfo - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:44:14.665 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:44:17.105 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 15:44:17.152 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:44:18.375 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 15:44:24.273 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 15:44:27.339 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:44:30.385 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:51:51.908 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:51:52.010 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:51:52.015 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:51:52.042 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:51:52.122 [main] FillingInfo - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:51:52.127 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:51:54.429 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 15:51:54.481 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:51:55.601 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 15:52:01.524 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 15:52:13.445 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-28 15:52:20.851 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:55:56.003 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:55:56.103 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 15:55:56.107 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:55:56.127 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:55:56.199 [main] FillingInfo - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 15:55:56.203 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 15:55:58.207 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 15:55:58.257 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 15:55:59.099 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 15:56:05.061 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 15:56:16.870 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-28 15:56:27.494 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 16:00:51.247 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 16:00:51.342 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 16:00:51.346 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 16:00:51.370 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 16:00:51.445 [main] FillingInfo - Test Passed. welocome admin is available
+[INFO ] 2022-01-28 16:00:51.449 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 16:00:53.031 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 16:00:53.081 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 16:00:53.958 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 16:00:59.888 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 16:01:11.729 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-28 16:01:22.380 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 16:12:18.727 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 16:12:18.809 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 16:12:20.901 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 16:12:20.942 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 16:12:21.855 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 16:12:28.016 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 16:12:31.074 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 16:12:34.114 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 16:22:20.402 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 16:22:20.478 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 16:22:22.250 [main] FillingInfo - Test Passed. Admin tab clicked sucessfully
+[INFO ] 2022-01-28 16:22:23.153 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 16:22:29.176 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 16:22:32.255 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 16:22:35.306 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 16:27:38.826 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 16:27:38.916 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 16:27:41.753 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 16:27:47.781 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 16:27:50.847 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 16:27:53.889 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 16:30:58.537 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 16:30:58.638 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 16:31:01.452 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 16:31:07.516 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 16:31:19.463 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-28 16:31:30.128 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-28 19:50:38.446 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 19:50:38.514 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 19:50:40.763 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 19:50:40.783 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 19:50:40.800 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 19:51:56.988 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 19:51:57.061 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 19:52:00.040 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 19:52:05.832 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 19:52:17.684 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-28 19:58:22.213 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 19:58:22.285 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 19:58:25.579 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 19:58:31.338 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 19:58:34.408 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 19:58:37.449 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 19:58:40.492 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 19:59:52.436 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 19:59:52.508 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 19:59:55.397 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 20:00:01.176 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 20:00:04.241 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 20:00:07.288 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 20:00:10.336 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 20:02:46.220 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 20:02:46.300 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 20:02:49.078 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 20:02:54.846 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 20:03:06.615 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-28 21:00:08.354 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-28 21:00:08.424 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-28 21:00:11.210 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-28 21:00:17.106 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-28 21:00:20.304 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-28 21:00:23.350 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.467 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.536 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.577 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.614 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.634 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.680 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.726 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.772 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.813 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.842 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.861 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:15.895 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:18.946 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:18.980 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:22.029 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:22.069 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:37.286 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:58:52.436 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 11:59:06.691 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:50:46.679 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-29 20:50:46.745 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-29 20:50:48.663 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:50:48.728 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:50:48.810 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:50:48.885 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:50:49.756 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-29 20:50:55.680 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-29 20:50:56.082 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:51:07.965 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-29 20:51:36.101 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:58:22.249 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-29 20:58:22.326 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-29 20:58:24.164 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 20:58:24.225 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 20:58:24.290 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 20:58:24.351 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 20:58:25.260 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-29 20:58:31.177 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-29 20:58:34.414 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:58:34.452 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:59:40.066 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-29 20:59:40.148 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-29 20:59:42.094 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 20:59:42.159 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 20:59:42.226 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 20:59:42.296 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 20:59:43.427 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-29 20:59:49.295 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-29 20:59:52.489 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:59:52.525 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:59:55.584 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 20:59:58.635 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 21:01:40.173 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-29 21:01:40.261 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-29 21:01:42.137 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:01:42.203 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:01:42.264 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:01:42.330 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:01:43.224 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-29 21:01:49.137 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-29 21:01:49.546 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 21:02:01.442 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-29 21:02:29.433 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 21:14:46.135 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-29 21:14:46.217 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-29 21:14:48.126 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:14:48.188 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:14:48.251 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:14:48.315 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:14:49.211 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-29 21:14:55.197 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-29 21:14:56.156 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 21:15:07.983 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-29 21:15:36.158 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 21:18:38.292 [main] FillingInfo - Test Passed. admin tab is available
+[INFO ] 2022-01-29 21:18:38.369 [main] FillingInfo - Test Passed. welcocome admin is available
+[INFO ] 2022-01-29 21:18:40.293 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:18:40.357 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:18:40.419 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:18:40.480 [main] FillingInfo - Test Passed
+[INFO ] 2022-01-29 21:18:41.314 [main] FillingInfo - Test Passed. Add button clicked sucessfully
+[INFO ] 2022-01-29 21:18:47.211 [main] FillingInfo - Test Passed. Information filled-in sucessfully
+[INFO ] 2022-01-29 21:18:48.277 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-29 21:19:00.141 [main] FillingInfo - Clicked successfully
+[INFO ] 2022-01-29 21:19:28.287 [main] FillingInfo - Test Failed
+[INFO ] 2022-01-30 02:17:41.796 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 02:17:41.817 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 02:17:50.307 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:17:50.317 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:17:50.324 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:17:50.329 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:19:13.334 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 02:19:13.355 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 02:19:21.975 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:19:21.984 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:19:21.991 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:19:21.997 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:20:01.372 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 02:20:01.413 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 02:20:09.952 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:20:09.961 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:20:09.967 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:20:09.973 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:22:35.720 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 02:22:35.739 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 02:22:44.336 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:22:44.346 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:22:44.352 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:22:44.357 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:27:32.695 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 02:27:32.717 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 02:27:41.304 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:27:41.314 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:27:41.320 [main] Logout - Test Failed
+[INFO ] 2022-01-30 02:27:41.325 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.363 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.380 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.390 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.398 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.403 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.412 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.421 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.430 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.438 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.446 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.450 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:51.460 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:54.486 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:54.496 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:57.518 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:57.527 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:57.534 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:05:57.541 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:06:05.594 [main] Logout - Test Failed
+[INFO ] 2022-01-30 10:06:05.599 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.800 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.821 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.832 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.842 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.846 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.855 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.864 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.873 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.883 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.892 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.900 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:41.909 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:44.923 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:44.932 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:47.944 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:47.954 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:47.961 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:47.968 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:56.023 [main] Logout - Test Failed
+[INFO ] 2022-01-30 11:40:56.029 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:17:27.878 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 12:17:27.899 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 12:17:36.501 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:17:36.512 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:17:36.518 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:17:36.524 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:22:22.971 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 12:22:23.052 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 12:22:33.924 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:22:33.965 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:25:28.258 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 12:25:28.338 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 12:25:39.026 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:25:39.072 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:38:45.852 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:53.514 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:53.528 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:53.586 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 12:38:53.589 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:53.648 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 12:38:53.650 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:55.414 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:55.432 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:55.478 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:55.532 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:55.577 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:55.621 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:56.437 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:56.454 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:38:56.501 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:39:00.586 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:39:00.726 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:39:04.723 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:39:04.785 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:39:04.823 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:39:04.859 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:39:32.727 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:39:32.744 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:39:37.774 [main] Logout - Test Passed
+[INFO ] 2022-01-30 12:49:18.277 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 12:49:18.351 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 12:49:28.305 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:49:28.347 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:49:28.379 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:49:28.405 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:51:02.450 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 12:51:02.533 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 12:51:19.320 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:51:19.368 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:54:42.886 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 12:54:42.965 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 12:54:54.069 [main] Logout - Test Failed
+[INFO ] 2022-01-30 12:54:54.113 [main] Logout - Test Failed
+[INFO ] 2022-01-30 13:00:35.296 [main] Logout - Test Passed. admin tab is available
+[INFO ] 2022-01-30 13:00:35.390 [main] Logout - Test Passed. welcocome admin is available
+[INFO ] 2022-01-30 13:00:46.416 [main] Logout - Test Failed
+[INFO ] 2022-01-30 13:00:46.466 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:52:36.381 [main] Logout - Test Passed
+[INFO ] 2022-01-30 15:52:36.421 [main] Logout - Test Passed
+[INFO ] 2022-01-30 15:52:45.994 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:52:46.012 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:52:46.024 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:52:46.034 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:53:50.698 [main] Logout - Test Passed
+[INFO ] 2022-01-30 15:53:50.732 [main] Logout - Test Passed
+[INFO ] 2022-01-30 15:54:00.240 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:54:00.257 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:54:00.274 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:54:00.289 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:55:33.095 [main] Logout - Test Passed
+[INFO ] 2022-01-30 15:55:33.137 [main] Logout - Test Passed
+[INFO ] 2022-01-30 15:55:42.682 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:55:42.704 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:55:42.721 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:55:42.734 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:58:06.733 [main] Logout - Test Passed
+[INFO ] 2022-01-30 15:58:06.774 [main] Logout - Test Passed
+[INFO ] 2022-01-30 15:58:16.239 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:58:16.260 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:58:16.276 [main] Logout - Test Failed
+[INFO ] 2022-01-30 15:58:16.289 [main] Logout - Test Failed
+[INFO ] 2022-01-30 16:01:11.437 [main] Logout - Test Passed
+[INFO ] 2022-01-30 16:01:12.837 [main] Logout - Test Passed
+[INFO ] 2022-01-30 16:01:21.811 [main] Logout - Test Failed
+[INFO ] 2022-01-30 16:01:21.827 [main] Logout - Test Failed
+[INFO ] 2022-01-30 16:01:21.839 [main] Logout - Test Failed
+[INFO ] 2022-01-30 16:01:21.851 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:42:49.996 [main] Logout - Test Passed
+[INFO ] 2022-01-30 17:42:50.016 [main] Logout - Test Passed
+[INFO ] 2022-01-30 17:42:58.512 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:42:58.523 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:42:58.530 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:42:58.535 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:46:34.371 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:47:39.922 [main] Logout - Test Passed
+[INFO ] 2022-01-30 17:47:39.942 [main] Logout - Test Passed
+[INFO ] 2022-01-30 17:47:47.375 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:47:47.385 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:47:47.392 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:47:47.398 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:48:15.623 [main] Logout - Test Failed
+[INFO ] 2022-01-30 17:48:27.800 [main] Logout - Test Failed
